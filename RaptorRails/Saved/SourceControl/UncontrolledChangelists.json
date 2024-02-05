@@ -5,8 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Riift/Documents/GitHub/Raptor-Rails/RaptorRails/Content/PlayerBPs/Anims/ABP_Player.uasset",
 				"C:/Users/Riift/Documents/GitHub/Raptor-Rails/RaptorRails/Content/Maps/Greybox_Environment_MechanicsTest2.umap",
+				"C:/Users/Riift/Documents/GitHub/Raptor-Rails/RaptorRails/Content/Animations/ABP_Test.uasset",
+				"C:/Users/Riift/Documents/GitHub/Raptor-Rails/RaptorRails/Content/SFX/TestBus.uasset",
+				"C:/Users/Riift/Documents/GitHub/Raptor-Rails/RaptorRails/Content/PlayerBPs/Anims/ABP_Player.uasset",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/Maps/MechanicsMap.umap",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/Actions/IA_Jump.uasset",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/Actions/IA_Look.uasset",
