@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EOSIntegrationKit.cpp.obj": [
+			"EOSIntegrationKit.cpp.obj"
+		]
+	}
+}
