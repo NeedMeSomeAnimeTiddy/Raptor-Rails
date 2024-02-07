@@ -1,0 +1,16 @@
+{
+	"SourceFiles": [
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Source\\RaptorRails\\RaptorRails.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Plugins\\EOSIntegrationKit\\Source\\EIKLoginMethods\\EIKLoginMethods.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Plugins\\EOSIntegrationKit\\Source\\EIKShared\\EIKShared.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Plugins\\EOSIntegrationKit\\Source\\EIKVoiceChat\\EIKVoiceChat.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Plugins\\EOSIntegrationKit\\Source\\EOSIntegrationKit\\EOSIntegrationKit.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Plugins\\EOSIntegrationKit\\Source\\OnlineSubsystemEIKPlus\\OnlineSubsystemEIKPlus.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Plugins\\EOSIntegrationKit\\Source\\OnlineSubsystemEIK\\OnlineSubsystemEIK.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Plugins\\EOSIntegrationKit\\Source\\SocketSubsystemEIK\\SocketSubsystemEIK.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Plugins\\EOSIntegrationKit\\Source\\ThirdParty\\EIKSDK\\EIKSDK.Build.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Source\\RaptorRails.Target.cs",
+		"E:\\Projects\\UnrealProjects\\Raptor-Rails\\RaptorRails\\Source\\RaptorRailsEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,12 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"EIKLoginMethods": "UnrealEditor-EIKLoginMethods.dll",
+		"EIKShared": "UnrealEditor-EIKShared.dll",
+		"EIKVoiceChat": "UnrealEditor-EIKVoiceChat.dll",
+		"EOSIntegrationKit": "UnrealEditor-EOSIntegrationKit.dll",
+		"OnlineSubsystemEIK": "UnrealEditor-OnlineSubsystemEIK.dll",
+		"SocketSubsystemEIK": "UnrealEditor-SocketSubsystemEIK.dll"
+	}
+}

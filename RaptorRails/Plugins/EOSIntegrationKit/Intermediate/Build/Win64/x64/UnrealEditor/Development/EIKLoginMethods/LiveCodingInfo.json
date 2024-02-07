@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EIKLoginMethods.cpp.obj": [
+			"EIKLoginMethods.cpp.obj"
+		]
+	}
+}

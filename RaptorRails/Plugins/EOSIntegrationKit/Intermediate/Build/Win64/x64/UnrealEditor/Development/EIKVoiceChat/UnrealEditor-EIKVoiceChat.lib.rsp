@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EIKVoiceChat.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Plugins\EOSIntegrationKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\EIKVoiceChat\Module.EIKVoiceChat.cpp.obj"
+"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Plugins\EOSIntegrationKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\EIKVoiceChat\Default.rc2.res"
+/OUT:"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Plugins\EOSIntegrationKit\Intermediate\Build\Win64\x64\UnrealEditor\Development\EIKVoiceChat\UnrealEditor-EIKVoiceChat.lib"
