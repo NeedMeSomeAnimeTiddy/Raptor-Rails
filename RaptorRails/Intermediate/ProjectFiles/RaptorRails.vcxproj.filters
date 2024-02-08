@@ -831,39 +831,9 @@
     <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\eos-sdk.aar">
       <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin</Filter>
     </None>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\EOSSDK-Win32-Shipping.dll">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin</Filter>
-    </None>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\EOSSDK-Win32-Shipping.lib">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin</Filter>
-    </None>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\EOSSDK-Win64-Shipping.dll">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin</Filter>
-    </None>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\EOSSDK-Win64-Shipping.lib">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin</Filter>
-    </None>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\libEOSSDK-Linux-Shipping.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin</Filter>
-    </None>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\libEOSSDK-Mac-Shipping.dylib">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin</Filter>
-    </None>
     <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android">
       <UniqueIdentifier>{18A92FBD-2619-3BCD-8FAA-8764D1CB4783}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\arm64-v8a">
-      <UniqueIdentifier>{463DF28D-7ACB-3791-9123-E50E3D7F4C14}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\arm64-v8a\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\arm64-v8a</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\armeabi-v7a">
-      <UniqueIdentifier>{A4E5A899-3EAE-351B-9F12-736C2566CFB9}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\armeabi-v7a\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\armeabi-v7a</Filter>
-    </None>
     <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++">
       <UniqueIdentifier>{5C50416C-67B8-3B01-BA73-F5E963E78961}</UniqueIdentifier>
     </Filter>
@@ -872,33 +842,6 @@
     </Filter>
     <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\aar\eos-sdk.aar">
       <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\aar</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs">
-      <UniqueIdentifier>{53C2C1AF-B0B7-32BB-8CB9-ABFBC3038CBB}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\arm64-v8a">
-      <UniqueIdentifier>{B33A6CD7-B0BF-353F-BD8F-0B8EC4D42E9D}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\arm64-v8a\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\arm64-v8a</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\armeabi-v7a">
-      <UniqueIdentifier>{CAD9C289-7DAD-3138-BA93-85D87891C799}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\armeabi-v7a\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\armeabi-v7a</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\x86">
-      <UniqueIdentifier>{E6E786DF-2F5B-3E3E-AEC4-FAC785832733}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\x86\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\x86</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\x86_64">
-      <UniqueIdentifier>{1A9C0E84-8E5D-39BA-AD8D-0EF560BD5DFB}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\x86_64\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\dynamic-stdc++\libs\x86_64</Filter>
     </None>
     <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\include">
       <UniqueIdentifier>{F31A5791-C13C-3379-B22D-2BA890560FD4}</UniqueIdentifier>
@@ -1130,33 +1073,6 @@
     </Filter>
     <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\aar\eos-sdk.aar">
       <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\aar</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs">
-      <UniqueIdentifier>{220F2BE2-394E-31D2-91E2-97D7121D140D}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\arm64-v8a">
-      <UniqueIdentifier>{F7DEB840-9F60-30C4-87D7-231049FB59BC}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\arm64-v8a\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\arm64-v8a</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\armeabi-v7a">
-      <UniqueIdentifier>{A66BB177-2F0F-3BC1-A7F2-AC7A7EF8F0AE}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\armeabi-v7a\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\armeabi-v7a</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\x86">
-      <UniqueIdentifier>{E7D3DED5-C346-3AA1-AEE5-AA78E20FD48F}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\x86\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\x86</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\x86_64">
-      <UniqueIdentifier>{3B04A2B9-E6A7-3FDE-8C28-60394FFDE64E}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\x86_64\libEOSSDK.so">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\Android\static-stdc++\libs\x86_64</Filter>
     </None>
     <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\IOS">
       <UniqueIdentifier>{7E138634-7F3F-30E0-B126-8C43F9DF4C79}</UniqueIdentifier>
@@ -1398,18 +1314,6 @@
     <ClInclude Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\IOS\EOSSDK.framework\Headers\eos_version.h">
       <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\IOS\EOSSDK.framework\Headers</Filter>
     </ClInclude>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\x64">
-      <UniqueIdentifier>{30A7B86B-9BBB-3A3D-8F91-7A5FB0CF0006}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\x64\xaudio2_9redist.dll">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\x64</Filter>
-    </None>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\x86">
-      <UniqueIdentifier>{089ED118-30A0-35A5-8D17-58509C089B76}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\x86\xaudio2_9redist.dll">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Bin\x86</Filter>
-    </None>
     <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Include">
       <UniqueIdentifier>{598CB354-E8FF-32C9-AC90-222C96FF6D45}</UniqueIdentifier>
     </Filter>
@@ -1665,15 +1569,6 @@
     <ClInclude Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Include\Windows\eos_Windows_base.h">
       <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Include\Windows</Filter>
     </ClInclude>
-    <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Lib">
-      <UniqueIdentifier>{DB489D3E-BD77-3D43-90F8-30AB24097825}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Lib\EOSSDK-Win32-Shipping.lib">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Lib</Filter>
-    </None>
-    <None Include="..\..\Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Lib\EOSSDK-Win64-Shipping.lib">
-      <Filter>Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Lib</Filter>
-    </None>
     <Filter Include="Plugins\EOSIntegrationKit\Source\ThirdParty\EIKSDK\Tools">
       <UniqueIdentifier>{A39B4566-7955-3FA9-A373-40CCD33390A8}</UniqueIdentifier>
     </Filter>

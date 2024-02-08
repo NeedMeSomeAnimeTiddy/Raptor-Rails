@@ -1,11 +1,11 @@
-"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Source\RaptorRails\MyClass.cpp"
-/FI"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\Definitions.RaptorRails.h"
-/Yu"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\MyClass.cpp.obj"
-/sourceDependencies "E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\MyClass.cpp.dep.json"
-@"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\RaptorRails.Shared.rsp"
+"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Source\RaptorRails\MyClass.cpp"
+/FI"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\Definitions.RaptorRails.h"
+/Yu"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\MyClass.cpp.obj"
+/sourceDependencies "C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\MyClass.cpp.dep.json"
+@"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\RaptorRails.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

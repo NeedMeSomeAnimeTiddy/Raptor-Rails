@@ -3456,66 +3456,6 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/EOSSDK-Win64-Shipping.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/EOSSDK-Win64-Shipping.lib",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-EIKLoginMethods.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-EIKLoginMethods.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-EIKShared.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-EIKShared.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-EIKVoiceChat.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-EIKVoiceChat.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-EOSIntegrationKit.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-EOSIntegrationKit.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-OnlineSubsystemEIK.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-OnlineSubsystemEIK.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-SocketSubsystemEIK.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor-SocketSubsystemEIK.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -24801,18 +24741,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/EOSSDK-Win64-Shipping.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/Binaries/Win64/EOSSDK-Win64-Shipping.lib",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/EOSIntegrationKit/EOSIntegrationKit.uplugin",
 			"Type": "UFS"
 		},
 		{
