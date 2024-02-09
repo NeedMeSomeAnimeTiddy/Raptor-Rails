@@ -6,8 +6,8 @@
 /NAME:"UnrealEditor-RaptorRails.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\MyClass.cpp.obj"
-"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\RaptorRails.cpp.obj"
-"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\Default.rc2.res"
-/OUT:"E:\Projects\UnrealProjects\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\UnrealEditor-RaptorRails.lib"
+"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\RaptorRailsEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\MyClass.cpp.obj"
+"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\RaptorRails.cpp.obj"
+"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\Default.rc2.res"
+/OUT:"C:\Users\Riift\Documents\GitHub\Raptor-Rails\RaptorRails\Intermediate\Build\Win64\x64\UnrealEditor\Development\RaptorRails\UnrealEditor-RaptorRails.lib"

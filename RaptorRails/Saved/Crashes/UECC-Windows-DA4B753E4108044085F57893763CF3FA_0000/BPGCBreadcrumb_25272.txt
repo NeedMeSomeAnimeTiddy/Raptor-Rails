@@ -1,0 +1,2 @@
+/Game/Maps/UEDPIE_0_riverbankMechanics.riverbankMechanics:PersistentLevel.BP_Enemy_C_0
+/Game/WorldBPs/Enemy/BP_Enemy.BP_Enemy_C
