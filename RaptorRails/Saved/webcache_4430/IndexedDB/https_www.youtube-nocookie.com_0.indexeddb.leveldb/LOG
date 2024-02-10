@@ -1,6 +1,0 @@
-2024/02/08-14:24:42.120 20c8 Creating DB C:/Users/Riift/Documents/GitHub/Raptor-Rails/RaptorRails/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/02/08-14:24:42.135 20c8 Reusing MANIFEST C:/Users/Riift/Documents/GitHub/Raptor-Rails/RaptorRails/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/02/08-14:25:40.971 20c8 Level-0 table #5: started
-2024/02/08-14:25:40.985 20c8 Level-0 table #5: 1167 bytes OK
-2024/02/08-14:25:40.988 20c8 Delete type=0 #3
-2024/02/08-14:25:40.988 20c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
