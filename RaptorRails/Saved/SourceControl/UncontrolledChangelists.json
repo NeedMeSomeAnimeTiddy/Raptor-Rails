@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/Maps/MechanicsMap.umap",
+				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/Actions/IA_Jump.uasset",
+				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/Actions/IA_Look.uasset",
+				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/Actions/IA_Move.uasset",
+				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/IMC_Default.uasset",
+				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/Maps/alpha_map_2.umap",
 				"C:/Users/lindy/Documents/Raptor-Rails/RaptorRails/Content/Maps/Greybox_Environmetn.umap",
 				"C:/Users/lindy/Documents/Raptor-Rails/RaptorRails/Content/Maps/Greybox_Environment.umap",
 				"C:/Users/lindy/Documents/Raptor-Rails/RaptorRails/Content/Maps/_GENERATED/lindy/Box_03B64302.uasset",
@@ -307,7 +314,6 @@
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
-				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/Maps/MechanicsMap.umap",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerController/Input/Actions/IA_Jump.uasset",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerController/Input/Actions/IA_Look.uasset",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerController/Input/Actions/IA_Move.uasset",
@@ -320,12 +326,7 @@
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
 				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
-				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/Actions/IA_Jump.uasset",
-				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/Actions/IA_Look.uasset",
-				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/Actions/IA_Move.uasset",
-				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Input/IMC_Default.uasset",
-				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Blueprints/BP_ThirdPersonGameMode.uasset"
+				"E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Content/PlayerBPs/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
