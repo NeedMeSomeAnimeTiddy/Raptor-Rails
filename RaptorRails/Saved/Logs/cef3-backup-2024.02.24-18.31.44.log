@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+[0224/141437.206:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+=======
+[0223/140531.185:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0223/140728.746:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> parent of acf067e (ggjkdfdfgrgthyuj)
