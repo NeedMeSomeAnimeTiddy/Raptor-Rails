@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [0209/185418.584:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
 [0209/185422.828:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0209/185500.487:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: E:/Projects/UnrealProjects/Raptor-Rails/RaptorRails/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
@@ -16,4 +17,7 @@
 >>>>>>> Lin-Environments
 =======
 [0224/200148.710:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> Lin-Environments
+=======
+[0227/230345.205:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
 >>>>>>> Lin-Environments
