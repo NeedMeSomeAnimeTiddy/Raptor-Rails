@@ -3,13 +3,6 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "RaptorRails",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -23,16 +16,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ChaosVehiclesPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "EOSIntegrationKit",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/dba0aa05bdd144e69405653a387ad63e"
-		},
-		{
-			"Name": "MovieRenderPipeline",
+			"Name": "Water",
 			"Enabled": true
 		},
 		{
@@ -40,7 +24,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Water",
+			"Name": "NaniteDisplacedMesh",
 			"Enabled": true
 		}
 	]
